@@ -22,4 +22,4 @@ indicesCombined = patternmatching('GCGCATCGC','GCGCATCAGCGCATCGCGCATCACACGCAGCGC
 for i in range(0,len(indicesCombined)):
     a = a+' ' + str(indicesCombined[i])
 
-print a
+print(a)

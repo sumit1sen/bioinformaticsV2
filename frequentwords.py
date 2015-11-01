@@ -23,4 +23,4 @@ s=f.read()
 fpatterns = frequentwords(s,13)
 #print fpatterns
 fpatterns = frequentwords('CGGAGGACTCTAGGTAACGCTTATCAGGTCCATAGGACATTCA',3)
-print fpatterns
+print(fpatterns)
